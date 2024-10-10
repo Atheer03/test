@@ -1,17 +1,1 @@
-}
- 
-list.display();
- 
-System.out.println( remove last elemnt:  + list.remove(list.size() - 1));
- 
-list.display();
- 
-System.out.println( the elemnt to search for : );
- 
-String target = scanner.nextLine();
- 
-System.out.println( Search for a specific element in the list:  + list.search(target) + n);
- 
-System.out.println(Array List elemnt );
- 
-list.display(); 
+ Atheeer aaaaaa 
